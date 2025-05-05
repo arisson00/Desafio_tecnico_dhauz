@@ -22,7 +22,7 @@ Este projeto tem como objetivo aplicar técnicas de **Processamento de Linguagem
 - **spaCy** – Processamento de linguagem natural (modelo `en_core_web_sm`)
 - **WordCloud** – Geração de nuvens de palavras
 - **Scikit-Learn (sklearn)** – Modelagem de machine learning (TF-IDF + Regressão Logística)
-- **Jupyter Notebook** – Ambiente interativo para análise
+- **kaggle Notebook** – Ambiente interativo para análise
 
 ---
 
